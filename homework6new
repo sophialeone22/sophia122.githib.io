@@ -1,0 +1,49 @@
+https://github.com/sophialeone22/sophia122.githib.io.git
+<!DOCTYPE html>
+<!-- saved from url=(0059)file:///Users/sophialeone/Documents/Homework%206/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Required meta tags -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="./assignment6_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>JNL 221 - DV3</title>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <div class="row">
+        <header class="col bg-secondary text-white p-2 mb-4">
+          <h3>JNL 221: Data Visualization Assignment 6</h3>
+        </header>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-7">
+
+
+          <h1>Which States are Most Effected By Hurricanes</h1>
+
+          <p>Hurincanes bring mass devistation, not only to land, but to many homes. The ammount of destruction to homes, within each state, depends on the category of hurricane. The more severe category a hurcane is, the more destruction it brings. In the United States, Flordia is at most risk for destruction with an average of 2,362,323 homes destroyed in a category 4 hurricane.  .</p>
+
+          <!-- PLACE YOUR DATAWRAPPER <iframe> DIRECTLY UNDERNEATH ME! -->
+
+
+            <iframe title="Number of Homes destroyed in States by Category of Hurricane " aria-label="Stacked Bars" id="datawrapper-chart-l2BWo" src="./assignment6_files/saved_resource.html" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 601px;" height="627"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+          
+          <!-- PLACE YOUR DATAWRAPPER <iframe> ABOVE ME!-->
+        
+        </div>
+
+      </div>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="./assignment6_files/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+  
+
+</div></body></html>
