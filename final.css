@@ -1,3 +1,5 @@
+
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -17,7 +19,7 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
   color: whitesmoke;
-  background-color: darkblue;
+  background-color: lightgrey;
 }
 
 li a:hover:not(.active) {
