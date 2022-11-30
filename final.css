@@ -40,18 +40,18 @@ body {
   max-width: 50rem;
   margin-left: auto;
   margin-right: auto;
-  background-color: blue;
+  background-color: lightblue;
 }
 
 header {
-  background-color: blue ;
+  background-color: lightblue ;
   font-size: 60px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20%;
   padding-right: 10%;
   margin-bottom: 15px;
-  background-color: blue;
+  background-color: lightblue;
 }
 
 
