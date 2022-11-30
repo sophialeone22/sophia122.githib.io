@@ -1,7 +1,5 @@
 
 
-
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -65,14 +63,14 @@ img {
   font-size: 49px;
   margin-left: 0px;
   margin-right: 0px;
-  margin-top: 5px; font-style: italic;
+  margin-top: 30px; font-style: italic;
   bold
 
 }
 
 h1 {
   font-style: ariel;
-  font-size: 60px; bold
+  font-size: 70px; bold
 }
 
 h2 {
